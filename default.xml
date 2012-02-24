@@ -95,7 +95,7 @@
   <project path="device/samsung/galaxys2att" name="CyanogenMod/android_device_samsung_galaxys2att"/>
   <project path="device/samsung/galaxysbmtd" name="CyanogenMod/android_device_samsung_galaxysbmtd" />
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" />
-  <project path="device/samsung/galaxys4g" name="CyanogenMod/android_device_samsung_galaxys4g" />
+  <project path="device/samsung/galaxys4g" name="teamacid/android_device_samsung_galaxys4g" />
   <project path="device/samsung/mesmerizemtd" name="CyanogenMod/android_device_samsung_mesmerizemtd" />
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" />
   <project path="device/samsung/showcasemtd" name="CyanogenMod/android_device_samsung_showcasemtd" />
