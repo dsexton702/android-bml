@@ -328,4 +328,7 @@
 
   <project path="android-bml" name="teamacid/android-bml" />
 
+  <project path="kernel/galaxys4g" name="teamacid/android_kernel_galaxys4g" revision="sgs4g-aosp" />
+  <project path="initramfs/galaxys4g" name="teamacid/android_initramfs_galaxys4g" revision="master" />
+
 </manifest>
